@@ -1,2 +1,3 @@
 # Login-Page-Web-Dev-
-A basic login page using HTML and CSS
+
+A simple login page using HTML and styled by CSS and bootsrap. 
