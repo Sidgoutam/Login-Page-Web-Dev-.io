@@ -1,6 +1,5 @@
 # Login-Page-Web-Dev-
 
-A pixel perfect design and a one-page responsive layout
 Includes bootstrap component - Form
 
 Download css and js files from the latest bootsrap available. 
